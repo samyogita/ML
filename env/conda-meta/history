@@ -126,3 +126,10 @@
 +defaults/win-64::widgetsnbextension-3.5.1-py39haa95532_0
 +defaults/win-64::winpty-0.4.3-4
 # update specs: ['jupyter']
+==> 2022-02-24 21:54:31 <==
+# cmd: C:\Users\Asus\miniconda3\Scripts\conda-script.py install --yes --prefix C:\Users\Asus\Desktop\sample_project_1\env seaborn
+# conda version: 4.10.3
+-defaults/win-64::ca-certificates-2021.10.26-haa95532_2
++defaults/noarch::seaborn-0.11.2-pyhd3eb1b0_0
++defaults/win-64::ca-certificates-2021.10.26-haa95532_4
+# update specs: ['seaborn']
